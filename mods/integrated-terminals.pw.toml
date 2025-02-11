@@ -1,0 +1,13 @@
+name = "Integrated Terminals"
+filename = "IntegratedTerminals-1.20.1-1.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmLJoQ1K/versions/OziNOVA1/IntegratedTerminals-1.20.1-1.6.5.jar"
+hash-format = "sha1"
+hash = "eefa92247aa3b05af83499f7c06b3066e51ae519"
+
+[update]
+[update.modrinth]
+mod-id = "HmLJoQ1K"
+version = "OziNOVA1"
