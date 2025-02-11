@@ -101,6 +101,11 @@ hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "673b81b2090bdce49d7743e8c4b3e8587d1106ad6d032f23148c39f7787a0bac"
 metafile = true
@@ -336,6 +341,11 @@ hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "ef1c06f29396bdd54287d151f21dbc3bf2d8962775ac50844d00809dbfe50e99"
 metafile = true
@@ -383,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "ab4cb8adc490899c37f63b8dcae74e5f1daaacdc2da3951611b5460dc15e3070"
 metafile = true
 
 [[files]]
