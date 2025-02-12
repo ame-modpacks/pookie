@@ -71,6 +71,11 @@ hash = "98a5be921a2deb3830f9294b6acf55eb4b689f0c0c8904286448e62f43d3805c"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "1bf633be9aa13b87fe2381a0aa4bf49df3d201303743142151bd443a0c87072b"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45044ceaf49f257a75b60118ee8e1c96c94f9c5c62a2c5b33a846006e8ad1ab3"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "119a7506c39a296fc3cd7d6f874c08b2664082811ba95daf2b98f27f398fb980"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
@@ -346,6 +356,11 @@ hash = "ef1c06f29396bdd54287d151f21dbc3bf2d8962775ac50844d00809dbfe50e99"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "52f74633abb906d4793b1dbb3e0e4e469a951ad443a89f0af16acb6a5e0abeac"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "6fae91e98ead05c36e6278fd7e9e6d118c95f9639e5d330ac18b730458f433a4"
 metafile = true
@@ -373,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "160827f221023b2ba1758a2992ff5499962b0b7ec079bab3ad586b9e1fa5d6df"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
@@ -456,6 +476,11 @@ hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "e3fb12effc9b0f37d0c15d8c56859f1cf9c6c8d5be97fa8ed837bebf795d27aa"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "8c6d91d8b28036329810392f55f4b57ec98ed58e72b72f85aa90903d0b6c97b1"
 metafile = true
@@ -463,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
