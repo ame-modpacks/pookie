@@ -525,6 +525,11 @@ hash = "3b634f3526317ac8a53748e59ac0805cf16bff6cbd152b38177aa21e515cde34"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "0f2c36c94055868c6344228873a1c05edb880dc92eda3609d10353e2f10f8886"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "ae1d4ae12713ca95bb4260a3c0e32f2df2c702e39d5ea514311d68ee4f49b7ad"
 metafile = true
@@ -707,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "a4bb5820cb61913b11813317733c335fb797a7b43b053aa600e72cecff803b3a"
 metafile = true
 
 [[files]]

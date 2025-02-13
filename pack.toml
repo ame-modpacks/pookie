@@ -1,13 +1,16 @@
 name = "Pookie"
 author = "AmeMeida"
-version = "3.0.1"
+version = "3.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4e61cd41513aa299ecdf14a2fb17be4fb0ab8aedd7648479f76770f6b3fe5e2c"
+hash = "0573fb9f3b16a7448a04ac0eaa38ebb8f4d0af973c5ac65ba97abbaf9e570dde"
 
 [versions]
 minecraft = "1.20.1"
 neoforge = "47.1.106"
+
+[options]
+datapack-folder = "config/openloader/data"
