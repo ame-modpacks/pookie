@@ -165,6 +165,11 @@ hash = "a516dfe4704c4aa98105486d49398e9a3545774114c67994157863e0f617d5c8"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "2ca034cc8455abf96488505709b78baee7f2887047f52147bc437c1a9a19fd85"
 metafile = true
@@ -522,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "3b634f3526317ac8a53748e59ac0805cf16bff6cbd152b38177aa21e515cde34"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "8f131eb0d7dbf2f1fd6d417a6d7793795c625e18bb0c49ce1a97f1f2a110d094"
 metafile = true
 
 [[files]]
