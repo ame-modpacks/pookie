@@ -45,6 +45,11 @@ hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "9f1ffc593f5b6369763f380b97efadf53acffdd03adebe49b038fcfa9fb59b3a"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "ba45971e28bf00e0dc80a43d0422c6be3ba67924af1dfbfd7d41b0c746dbdba4"
 metafile = true
@@ -82,6 +87,16 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
+metafile = true
+
+[[files]]
+file = "mods/attribute-tooltip-fix.pw.toml"
+hash = "01fc569e0353d30eafac97bf8fde5b3bd31e4cf91c9a8b6a832a48300614da4b"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
 
 [[files]]
@@ -152,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "ac1b5d2396a45632fb2c273a4cbb5fd0b8d3c6653ed9431360f2edb15a35c76d"
 metafile = true
 
 [[files]]
@@ -495,6 +515,11 @@ hash = "160827f221023b2ba1758a2992ff5499962b0b7ec079bab3ad586b9e1fa5d6df"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "2148909ecb38d00986f812b34dd2e0fa71f2b85b71a290bebfdbc4797677fcc8"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
@@ -677,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "4a01708d745ad0672aad52dd7aac91de324cb830bcea1718de776af87b9c9115"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "58fa90fa9ede4cd47cd1ba514434d275c6839c5da5255c1dd09324693673110b"
 metafile = true
 
 [[files]]
