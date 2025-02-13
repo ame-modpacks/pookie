@@ -3,5 +3,6 @@
 *.mrpack
 .gitignore
 README*
+.nojekyll
 
 local/**

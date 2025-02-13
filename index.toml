@@ -535,6 +535,11 @@ hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "d577bab7dafb2f99a409e550e2fb3a0a972280421c41095ab8fb11cca282dc21"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "ab4cb8adc490899c37f63b8dcae74e5f1daaacdc2da3951611b5460dc15e3070"
 metafile = true
@@ -677,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "dcceb1bd6935ef12032b7ed8df0f23db426d3e1a4e02f445dec37448a1975592"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
