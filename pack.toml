@@ -1,12 +1,12 @@
 name = "Pookie"
 author = "AmeMeida"
-version = "2.2.0"
+version = "3.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d82825a9ddf56d816571406476c079dc5dce714b6eebe1baa6003a65464375b1"
+hash = "4e61cd41513aa299ecdf14a2fb17be4fb0ab8aedd7648479f76770f6b3fe5e2c"
 
 [versions]
 minecraft = "1.20.1"
