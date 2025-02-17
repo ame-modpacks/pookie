@@ -455,6 +455,11 @@ hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
 metafile = true
 
 [[files]]
+file = "mods/json-things.pw.toml"
+hash = "df412810323b6ded788c7379785de4250ab5e06954068298a9b27cc49ffb04f0"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
 metafile = true
